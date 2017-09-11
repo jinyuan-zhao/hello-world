@@ -1,4 +1,4 @@
 # hello-world
 Learning Github
 
-//Additional comment
+//The tutorial is in GitHub Tutorial.docx
